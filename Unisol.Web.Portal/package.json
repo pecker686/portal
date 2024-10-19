@@ -33,7 +33,7 @@
 		"pdfmake": "^0.1.38",
 		"print-js": "^1.0.50",
 		"quasar-calendar": "^0.3.0",
-		"vue": "^2.5.16",
+		"vue": "^3.0.0",
 		"vue-bootstrap-datetimepicker": "^5.0.0",
 		"vue-event-bus": "^1.0.2",
 		"vue-event-calendar": "^1.5.2",
