@@ -31,7 +31,7 @@
 		"jspdf": "^1.4.1",
 		"moment": "^2.22.2",
 		"pdfmake": "^0.1.38",
-		"print-js": "^1.0.50",
+		"print-js": "^1.6.0",
 		"quasar-calendar": "^0.3.0",
 		"vue": "^2.5.16",
 		"vue-bootstrap-datetimepicker": "^5.0.0",
