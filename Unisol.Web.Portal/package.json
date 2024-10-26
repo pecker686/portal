@@ -30,7 +30,7 @@
 		"idle-vue": "^2.0.5",
 		"jspdf": "^1.4.1",
 		"moment": "^2.22.2",
-		"pdfmake": "^0.1.38",
+		"pdfmake": "^0.2.13",
 		"print-js": "^1.0.50",
 		"quasar-calendar": "^0.3.0",
 		"vue": "^2.5.16",
